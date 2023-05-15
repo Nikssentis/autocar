@@ -1,0 +1,31 @@
+kontur 0.5
+standard 0.25
+ansi 31
+skala 1,100,0,5
+
+najpierw wymiary potem kreskowanie
++enter ob enter
+
+sledzenie 30 naciskam nie naciskając odciagam wpisuje 
+@100 70 stopni
+odsun 10
+utnij 
+trzymamy szift przedluzamy
+
+luw ob
+wymiar liniowy 
+t %%c<>
+
+
+luw
+g 
+
+porządek wyświetlania przesun na wierzch
+
+
+//
+wymiar
+wlasciwowosci
+wlasciwosci wymiaru
+wylaczyc strzalke(linie i strzalki) brak
+linia pomocnicza wymiaru nie
