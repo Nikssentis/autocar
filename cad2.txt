@@ -1,0 +1,11 @@
+297,210
+
+luw 
+ob
+kat od x do y
+@100 <mierze od x do y 105 180-75 enter
+
+wymiar liniowy
+
+luw
+enter
